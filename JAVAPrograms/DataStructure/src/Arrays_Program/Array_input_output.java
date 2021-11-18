@@ -1,6 +1,5 @@
 package Arrays_Program;
 
-import javax.swing.plaf.synth.SynthLookAndFeel;
 import java.util.Scanner;
 
 public class Array_input_output {
