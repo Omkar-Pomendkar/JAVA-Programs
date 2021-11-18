@@ -9,5 +9,7 @@ public class CustomClass {
         Employee e1 = new Employee();
         e1.empid= 45;
         System.out.println(e1.empid);
+        CustomClass cs = new CustomClass();
+//        cs.empid = 90;
     }
 }

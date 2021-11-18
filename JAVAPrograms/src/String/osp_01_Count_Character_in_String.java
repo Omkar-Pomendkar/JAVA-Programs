@@ -1,7 +1,5 @@
 package String;
 
-import java.sql.SQLOutput;
-import java.util.Locale;
 
 public class osp_01_Count_Character_in_String {
     public static void main(String[] args) {

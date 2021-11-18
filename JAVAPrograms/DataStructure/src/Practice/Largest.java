@@ -2,7 +2,7 @@ package Practice;
 
 import java.util.Scanner;
 
-public class LArgest {
+public class Largest {
     public static void main(String[] args) {
         System.out.println("Solving Largest Program");
         Scanner sc = new Scanner(System.in);

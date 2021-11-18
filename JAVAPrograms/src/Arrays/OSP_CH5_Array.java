@@ -4,7 +4,7 @@ public class OSP_CH5_Array {
     public static void main(String[] args) {
         System.out.println("Array is a collection of similar Datatype ");
 
-        // Creting a Array
+        // Creating a Array
          int [] marks = new int[5]; // 20 bytes allocated
 
 //        int [] marks;

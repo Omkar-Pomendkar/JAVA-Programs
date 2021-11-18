@@ -3,7 +3,7 @@ package Arrays_Program;
 public class Searching {
     public static void main(String[] args) {
         System.out.println("searching");
-        int [] arr = {12,43,56,76,89,43,56};
+        int [] arr = {12,89,43,56,68,78,76,89,43,56};
         int target = 56;
         int ans = search(arr,target);
         System.out.println(ans);

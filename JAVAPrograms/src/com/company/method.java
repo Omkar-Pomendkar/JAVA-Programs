@@ -3,7 +3,7 @@ package com.company;
 public class method {
     static  void telljoke()
     {
-        System.out.println(" NEw Joke");
+        System.out.println(" NEW Joke");
     }
 
     public static int Sum(int a ,int b)
